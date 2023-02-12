@@ -6,7 +6,7 @@
 <h1>Congratulations!</h1>
 <img src="6qF2C87fCd8.jpg">
 
-<h2>Hello!</h2>
+<h2>Hello! 403 Forbidden </h2>
 
 <p>This Instance is running on <strong><%= System.getenv("BOXFUSE_PLATFORM_NAME") %>
 </strong> and has the id <strong><%= System.getenv("BOXFUSE_INSTANCE_ID") %>
