@@ -4,7 +4,7 @@
 </head>
 <body style="text-align: center">
 <h1>Congratulations!</h1>
-<img src="boxfuse.png">
+<img src="6qF2C87fCd8.jpg">
 
 <h2>Hello!</h2>
 
